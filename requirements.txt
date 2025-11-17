@@ -1,0 +1,15 @@
+#Requirements
+
+
+streamlit
+pandas
+numpy
+plotly
+sentence-transformers
+keybert
+transformers
+google-api-python-client
+youtube-transcript-api
+openai
+plotly.express
+plotly.graph_objects
